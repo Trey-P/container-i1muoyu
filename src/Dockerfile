@@ -1,5 +1,6 @@
 # syntax=docker/dockerfile:1
 FROM python:3-alpine
+EXPOSE 443 80
 ENV PYTHONUNBUFFERED=1
 WORKDIR /usr/src/app
 COPY requirements.txt /usr/src/app/

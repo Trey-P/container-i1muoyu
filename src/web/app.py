@@ -10,7 +10,7 @@ app.teardown_appcontext(close_db)
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return render_template("TravelEz/room.html")
 
 
 @app.route("/health")
