@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Aug 15 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Updates ([@Trey-P](https://github.com/Trey-P))
+
+#### Authors: 1
+
+- [@Trey-P](https://github.com/Trey-P)
+
+---
+
 # v0.0.1 (Thu Aug 15 2024)
 
 :tada: This release contains work from a new contributor! :tada:
